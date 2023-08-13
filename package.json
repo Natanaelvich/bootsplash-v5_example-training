@@ -13,7 +13,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.72.3",
-    "react-native-bootsplash": "file:../"
+    "react-native-bootsplash": "^5.0.0-beta.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
