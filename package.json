@@ -6,12 +6,9 @@
     "node": ">=18"
   },
   "scripts": {
-    "clean-modules": "rm -rf ./node_modules/react-native-bootsplash/{example,node_modules}",
-    "clean": "rm -rf ./node_modules ./ios/Pods",
-    "preinstall": "cd .. && yarn build && cd example",
-    "postinstall": "yarn clean-modules && pod-install",
     "start": "react-native start",
-    "reinstall": "yarn clean && yarn install"
+    "reinstall": "yarn clean && yarn install",
+    "clean": "rm -rf ./node_modules ./ios/Pods"
   },
   "dependencies": {
     "react": "18.2.0",
