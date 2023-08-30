@@ -10,6 +10,10 @@ v5 - Bye AndroidX, dark mode + brand image support, useHideAnimation hook, etc.
 <!-- emoji screenshot here  -->
 ## Screenshots 📸
 
+<p>
+  <img width="393" src="./docs/demo_static.png" alt="Demo">
+  <img width="255" src="./docs/demo.gif" alt="Demo">
+</p>
 
 ## Technologies
 
