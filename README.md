@@ -21,6 +21,12 @@ v5 - Bye AndroidX, dark mode + brand image support, useHideAnimation hook, etc.
 - React Native Reanimated v2
 - React Native Bootsplash v5
 
+## How generate splash screen
+
+```bash
+ yarn react-native generate-bootsplash ./assets/bootsplash_logo.png
+```
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
